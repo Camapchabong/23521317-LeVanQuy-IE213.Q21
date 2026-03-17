@@ -75,6 +75,8 @@ db.employees.find({
 
 #### 2.6 Thêm document có middle name
 
+![Add Documents](./Results/Lab01_2.6.1.jpg)
+
 ```javascript
 db.employees.insertMany([
   { id: 5, name: { first: "Rooney", middle: "K", last: "A" }, age: 30 },
@@ -90,7 +92,7 @@ db.employees.find({
 });
 ```
 
-![Find Middle Name](./Results/Lab01_2.6.jpg)
+![Find Middle Name](./Results/Lab01_2.6.2.jpg)
 
 #### 2.7 Xóa trường middle name
 
