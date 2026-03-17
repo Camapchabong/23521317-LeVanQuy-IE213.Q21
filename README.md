@@ -27,12 +27,13 @@
 
 ### Lab01
 
-- Nội dung chính:
-  Thiết lập và cấu hình MongoDB Atlas.
-  Kết nối thông qua MongoDB Compass.
-  Tạo cơ sở dữ liệu (database) và các bộ sưu tập (collection).
-  Thực hiện các thao tác CRUD bằng mongosh.
-  Thực hiện các câu lệnh truy vấn.
+Nội dung chính:
+
+- Thiết lập và cấu hình MongoDB Atlas.
+- Kết nối thông qua MongoDB Compass.
+- Tạo cơ sở dữ liệu (database) và các bộ sưu tập (collection).
+- Thực hiện các thao tác CRUD bằng mongosh.
+- Thực hiện các câu lệnh truy vấn.
 
 ### Lab02
 
@@ -46,8 +47,9 @@
 
 ## 4. Cách chạy chương trình
 
-- Hướng dẫn cho Lab01:
-  Đăng nhập: Truy cập vào tài khoản MongoDB Atlas.
-  Kết nối: Copy chuỗi kết nối (Connection String) và dán vào MongoDB Compass để truy cập Cluster.
-  Mở Shell: Sử dụng terminal hoặc Mongo Shell (mongosh) đã tích hợp sẵn.
-  Thực thi: Mở các file script trong thư mục Lab01 và chạy các lệnh tương ứng trên Shell.
+Hướng dẫn cho Lab01:
+
+- Đăng nhập: Truy cập vào tài khoản MongoDB Atlas.
+- Kết nối: Copy chuỗi kết nối (Connection String) và dán vào MongoDB Compass để truy cập Cluster.
+- Mở Shell: Sử dụng terminal hoặc Mongo Shell (mongosh) đã tích hợp sẵn.
+- Thực thi: Mở các file script trong thư mục Lab01 và chạy các lệnh tương ứng trên Shell.
