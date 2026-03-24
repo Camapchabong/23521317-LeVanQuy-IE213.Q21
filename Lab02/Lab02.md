@@ -105,9 +105,11 @@ LAB02
 #### 2.7 Đưa Controller vừa tạo ở yêu cầu 2.6 vào định tuyến
 
 - Đưa Controller vừa tạo ở yêu cầu 2.6 vào định tuyến
+
   ![2.7.1](../Lab02/Results/Lab02_2.7.1.jpg)
 
 - Chạy lệnh npm start
+
   ![2.7.2](../Lab02/Results/Lab02_2.7.2.jpg)
 
 - Truy cập localhost:3000/api/v1/movies/
