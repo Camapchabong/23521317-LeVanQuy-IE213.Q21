@@ -37,6 +37,14 @@ Nội dung chính:
 
 ### Lab02
 
+Nội dung chính:
+
+- Thiết lập môi trường NodeJS
+- Khởi tạo server với ExpressJS
+- Kết nối MongoDB Atlat
+- Kiến trúc mã nguồn theo mô hình DAO – Controller – Route
+- Xây dựng API /api/v1/movies để truy xuất dữ liệu movies
+
 ### Lab03
 
 ### Lab04
@@ -47,9 +55,15 @@ Nội dung chính:
 
 ## 4. Cách chạy chương trình
 
-Hướng dẫn cho Lab01:
+### Hướng dẫn cho Lab01:
 
 - Đăng nhập: Truy cập vào tài khoản MongoDB Atlas.
 - Kết nối: Copy chuỗi kết nối (Connection String) và dán vào MongoDB Compass để truy cập Cluster.
 - Mở Shell: Sử dụng terminal hoặc Mongo Shell (mongosh) đã tích hợp sẵn.
 - Thực thi: Mở các file script trong thư mục Lab01 và chạy các lệnh tương ứng trên Shell.
+
+### Hướng dẫn cho Lab02:
+
+- Mở Terminal tại thư mục dự án và cài đặt dependency npm install
+- Chạy server bằng câu lệnh npm run start
+- Truy cập API http://localhost:3000/api/v1/movies
