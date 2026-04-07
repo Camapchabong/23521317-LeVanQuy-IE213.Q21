@@ -47,6 +47,13 @@ Nội dung chính:
 
 ### Lab03
 
+Nội dung chính:
+
+- Xây dựng chức năng Review (POST, PUT, DELETE)
+- Tạo Controller và DAO cho review
+- Hoàn thiện API backend
+- Thêm API nâng cao
+
 ### Lab04
 
 ### Lab05
@@ -66,4 +73,11 @@ Nội dung chính:
 
 - Mở Terminal tại thư mục dự án và cài đặt dependency npm install
 - Chạy server bằng câu lệnh npm run start
+- Truy cập API http://localhost:3000/api/v1/movies
+
+### Hướng dẫn cho Lab03:
+
+- Di chuyển vào thư mục backend cd lab02/movie-reviews/backend
+- Cài đặt dependency npm install
+- Chạy server npm start
 - Truy cập API http://localhost:3000/api/v1/movies

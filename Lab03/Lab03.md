@@ -1,4 +1,4 @@
-# LAB02 – Thiết lập Backend với NodeJS & ExpressJS
+# LAB03 – Hoàn thiện Backend cho ứng dụng minh họa
 
 ---
 
