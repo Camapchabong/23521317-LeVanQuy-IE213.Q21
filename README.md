@@ -56,6 +56,13 @@ Nội dung chính:
 
 ### Lab04
 
+Nội dung chính:
+
+- Hiểu cách thiết lập phần frontend trong mô hình MERN Stack bằng ReactJS.
+- Giới thiệu một số package quan trọng thường dùng trong quá trình xây dựng mã nguồn frontend.
+- Thực hành xây dựng thanh điều hướng (Navigation Header Bar) với sự hỗ trợ của Bootstrap.
+- Nắm được cách phân chia và tổ chức các component trong dự án.
+
 ### Lab05
 
 ### Lab06
@@ -81,3 +88,10 @@ Nội dung chính:
 - Cài đặt dependency npm install
 - Chạy server npm start
 - Truy cập API http://localhost:3000/api/v1/movies
+
+### Hướng dẫn cho Lab04:
+
+Di chuyển vào thư mục frontend bằng lệnh: cd Lab04/movie-reviews/frontend
+Cài đặt các dependency cần thiết bằng lệnh: npm install
+Khởi chạy ứng dụng bằng lệnh: npm start
+Truy cập giao diện tại địa chỉ: http://localhost:3000
